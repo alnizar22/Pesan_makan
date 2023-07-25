@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "514202283718",
+    "project_id": "rumah-makan-af9e8",
+    "storage_bucket": "rumah-makan-af9e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514202283718:android:43c432786a5090a89b71c7",
+        "android_client_info": {
+          "package_name": "com.example.aplikasipesanmakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514202283718-p53jci3jofjhhj0hteoit2oq3dofbpok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aplikasipesanmakanan",
+            "certificate_hash": "eb946354374038eaa3cafc316cbfb2553f25f5af"
+          }
+        },
+        {
+          "client_id": "514202283718-tbalo6phd82gdolvkm5nc54c9640gglg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBavtXQwsxJlgXYQOMJ9yxhUHfr7EE_buU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514202283718-tbalo6phd82gdolvkm5nc54c9640gglg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
